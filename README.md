@@ -1,6 +1,6 @@
 BASIC EMACS COMMANDS
 
-##LEARNING OBJECTIVES
+## LEARNING OBJECTIVES
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 What is Emacs
@@ -15,14 +15,14 @@ How to undo
 How to cancel half-entered commands
 How to quit Emacs
 
-##REQUIREMENTS
+## REQUIREMENTS
 
 All tasks must be done inside the sandbox Ubuntu 20.04
 Your sandbox must be available at the end of this project - the Checker will access to it at midnight for running the correction!
 The answer of a task must be in a specific file
 Each answer file must contain only the command to execute in Emacs for solving the task. Example: “What is the command to write buffer to a specified file?” -> the file should contain only C-x C-w
 
-##TASKS
+## TASKS
 
 MANDATORY
 Task 0. Create your answer directory: Navigate to /root and create a directory named 0x02_emacs
@@ -41,7 +41,8 @@ Task 6. Undoing: What is the command to undo? Write the answer into the file /ro
 
 Task 7. Quitting: What is the command to quit Emacs? Write the answer into the file /root/0x02_emacs/quitting.
 
-##RESOURCE LINKS
+## RESOURCE LINKS
 
 GNU Emacs: A Guided Tour of Emacs; https://www.gnu.org/software/emacs/tour/
 
+## NOTES
